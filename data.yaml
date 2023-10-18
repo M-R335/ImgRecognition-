@@ -1,0 +1,14 @@
+path: C:\Users\mrodri\PycharmProjects\pythonProject9\
+train: C:\Users\mrodri\PycharmProjects\pythonProject9\train\images
+val: C:\Users\mrodri\PycharmProjects\pythonProject9\valid\images
+test: C:\Users\mrodri\PycharmProjects\pythonProject9\test\images
+
+nc: 21
+names: ['Player', 'apple', 'bench', 'boat', 'bottle', 'bowl', 'cake', 'carrot', 'chair', 'donut', 'dumpster', 'horse', 'microwave', 'person', 'player', 'pottedplant', 'teddy bear', 'toothbrush', 'traffic light', 'tvmonitor', 'umbrella']
+
+#roboflow:
+#  workspace: mpb
+#  project: my-custom-fortnite-ds
+#  version: 8
+#  license: CC BY 4.0
+#  url: https://universe.roboflow.com/mpb/my-custom-fortnite-ds/dataset/8
